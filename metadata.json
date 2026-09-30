@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Quest: Echoes of Fate",
+  "description": "Juego RPG táctico por turnos inspirado en Final Fantasy con combates por turnos individuales, menú de habilidades por clase, loot diverso y gestión de grupo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
